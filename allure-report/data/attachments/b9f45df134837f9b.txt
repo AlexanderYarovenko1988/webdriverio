@@ -1,0 +1,39 @@
+{
+  "id": {
+    "sessionId": "170bc92f09758543f4b7221fcaf08174",
+    "elementId": "7d3da2a2-0170-4626-95b7-b91c5deba7f8",
+    "element-6066-11e4-a52e-4f735466cecf": "7d3da2a2-0170-4626-95b7-b91c5deba7f8",
+    "selector": "[id='courses-iframe']",
+    "parent": {
+      "sessionId": "170bc92f09758543f4b7221fcaf08174",
+      "capabilities": {
+        "acceptInsecureCerts": true,
+        "browserName": "chrome",
+        "browserVersion": "111.0.5563.111",
+        "chrome": {
+          "chromedriverVersion": "110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839})",
+          "userDataDir": "C:\\Users\\sakyr\\AppData\\Local\\Temp\\scoped_dir30152_1082269494"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:53109"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:virtualAuthenticators": true
+      }
+    },
+    "isReactElement": false
+  }
+}

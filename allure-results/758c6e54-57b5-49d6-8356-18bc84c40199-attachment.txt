@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".btn-primary\"}\n  (Session info: chrome=111.0.5563.112)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x00C337D3]\n\t(No symbol) [0x00BC8B81]\n\t(No symbol) [0x00ACB36D]\n\t(No symbol) [0x00AFD382]\n\t(No symbol) [0x00AFD4BB]\n\t(No symbol) [0x00B33302]\n\t(No symbol) [0x00B1B464]\n\t(No symbol) [0x00B31215]\n\t(No symbol) [0x00B1B216]\n\t(No symbol) [0x00AF0D97]\n\t(No symbol) [0x00AF253D]\n\tGetHandleVerifier [0x00EAABF2+2510930]\n\tGetHandleVerifier [0x00ED8EC1+2700065]\n\tGetHandleVerifier [0x00EDC86C+2714828]\n\tGetHandleVerifier [0x00CE3480+645344]\n\t(No symbol) [0x00BD0FD2]\n\t(No symbol) [0x00BD6C68]\n\t(No symbol) [0x00BD6D4B]\n\t(No symbol) [0x00BE0D6B]\n\tBaseThreadInitThunk [0x76047D69+25]\n\tRtlInitializeExceptionChain [0x7777B74B+107]\n\tRtlClearBits [0x7777B6CF+191]\n"
+}
